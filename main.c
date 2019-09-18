@@ -1,3 +1,4 @@
+#include <stdio.h>
 main(argc, argv) {
-printf("hello");
+printf("hello\n");
 }
